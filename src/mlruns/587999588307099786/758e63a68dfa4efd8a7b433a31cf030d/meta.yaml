@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/src/mlruns/587999588307099786/758e63a68dfa4efd8a7b433a31cf030d/artifacts
+end_time: 1751832097630
+entry_point_name: ''
+experiment_id: '587999588307099786'
+lifecycle_stage: active
+run_id: 758e63a68dfa4efd8a7b433a31cf030d
+run_name: selective-donkey-522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751832078529
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe
