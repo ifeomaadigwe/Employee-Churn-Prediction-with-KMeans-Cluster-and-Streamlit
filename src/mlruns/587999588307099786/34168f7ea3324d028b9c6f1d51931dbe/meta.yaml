@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/src/mlruns/587999588307099786/34168f7ea3324d028b9c6f1d51931dbe/artifacts
+end_time: 1751816381781
+entry_point_name: ''
+experiment_id: '587999588307099786'
+lifecycle_stage: active
+run_id: 34168f7ea3324d028b9c6f1d51931dbe
+run_name: learned-hare-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751816354222
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

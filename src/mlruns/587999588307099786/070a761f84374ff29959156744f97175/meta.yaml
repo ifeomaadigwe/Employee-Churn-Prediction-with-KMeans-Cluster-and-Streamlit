@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/src/mlruns/587999588307099786/070a761f84374ff29959156744f97175/artifacts
+end_time: 1751813107410
+entry_point_name: ''
+experiment_id: '587999588307099786'
+lifecycle_stage: active
+run_id: 070a761f84374ff29959156744f97175
+run_name: burly-chimp-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751813088829
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

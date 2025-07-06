@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/mlruns/789187999607584430/58d8349b6f9347809c41ab36dd9b97a1/artifacts
+end_time: 1751830360541
+entry_point_name: ''
+experiment_id: '789187999607584430'
+lifecycle_stage: active
+run_id: 58d8349b6f9347809c41ab36dd9b97a1
+run_name: resilient-hare-680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751830340843
+status: 3
+tags: []
+user_id: IfeomaAugustaAdigwe

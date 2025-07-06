@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/src/mlruns/587999588307099786/models/m-b13ee2ccea214f57a00931cd6eaecd68/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.1
+model_id: m-b13ee2ccea214f57a00931cd6eaecd68
+model_size_bytes: 2387
+model_uuid: m-b13ee2ccea214f57a00931cd6eaecd68
+prompts: null
+run_id: 34168f7ea3324d028b9c6f1d51931dbe
+utc_time_created: '2025-07-06 15:39:33.486384'

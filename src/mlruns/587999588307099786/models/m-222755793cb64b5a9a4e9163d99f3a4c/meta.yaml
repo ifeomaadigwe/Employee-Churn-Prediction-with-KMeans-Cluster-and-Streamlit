@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/src/mlruns/587999588307099786/models/m-222755793cb64b5a9a4e9163d99f3a4c/artifacts
+creation_timestamp: 1751814138238
+experiment_id: '587999588307099786'
+last_updated_timestamp: 1751814142892
+model_id: m-222755793cb64b5a9a4e9163d99f3a4c
+model_type: null
+name: preprocessor
+source_run_id: 011a13a0a85c446e9b36a1f3422be539
+status: 2
+status_message: null

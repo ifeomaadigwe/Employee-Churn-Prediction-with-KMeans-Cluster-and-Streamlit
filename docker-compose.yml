@@ -1,0 +1,15 @@
+# docker-compose.yml
+
+version: '3.9'
+
+services:
+  churn_app:
+    build: .
+    container_name: employee-churn-app
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+    restart: unless-stopped

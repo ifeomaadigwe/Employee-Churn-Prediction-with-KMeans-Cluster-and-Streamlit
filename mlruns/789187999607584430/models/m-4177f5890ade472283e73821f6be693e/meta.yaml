@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/IfeomaAugustaAdigwe/Desktop/Employee%20Churn%20Prediction/mlruns/789187999607584430/models/m-4177f5890ade472283e73821f6be693e/artifacts
+creation_timestamp: 1751830345758
+experiment_id: '789187999607584430'
+last_updated_timestamp: 1751830352349
+model_id: m-4177f5890ade472283e73821f6be693e
+model_type: null
+name: kmeans_model
+source_run_id: 58d8349b6f9347809c41ab36dd9b97a1
+status: 2
+status_message: null
